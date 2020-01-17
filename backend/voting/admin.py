@@ -19,7 +19,6 @@ class RankSubmission(admin.ModelAdmin):
         "title",
         "topic",
         "topic_rank",
-        "topic_score",
         "level",
         "language",
         "speaker",
