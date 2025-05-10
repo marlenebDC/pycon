@@ -1,7 +1,7 @@
 {
   "name": "gatsby-source-pycon",
   "dependencies": {
-    "@babel/runtime": "^7.5.5",
+    "@babel/runtime": "^7.26.10",
     "apollo-link": "1.2.12",
     "apollo-link-http": "^1.5.15",
     "apollo-link-logger": "^1.2.3",
